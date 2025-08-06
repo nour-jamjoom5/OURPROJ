@@ -16,3 +16,5 @@ langchain_huggingface
 sentence_transformers
 einops
 hf-transfer
+langchain-qdrant
+certifi
