@@ -32,7 +32,7 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 # 1) Configuuring necessary variables
 ## Your Google API key for the LLM.
 # google_api_key = "YOUR GOOGLE API KEY"
-google_api_key = "AIzaSyCScdmSsl4tCM3vrMofoFv3BtOxJTZEjMI"
+google_api_key = "YOUR GOOGLE API KEY"
 
 ## A helper for reshaping Arabic text for correct display.
 reshaper = arabic_reshaper.ArabicReshaper()
